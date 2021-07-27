@@ -21,11 +21,7 @@ import { _t } from 'matrix-react-sdk/src/languageHandler';
 
 const VectorAuthFooter = () => {
     const brandingConfig = SdkConfig.get().branding;
-    let links = [
-        { "text": "Blog", "url": "https://element.io/blog" },
-        { "text": "Twitter", "url": "https://twitter.com/element_hq" },
-        { "text": "GitHub", "url": "https://github.com/vector-im/element-web" },
-    ];
+    let links = [];
 
     if (brandingConfig && brandingConfig.authFooterLinks) {
         links = brandingConfig.authFooterLinks;
