@@ -27,5 +27,8 @@
     "Go to your browser to complete Sign In": "გახსენი ბრაუზერი Sign In-ის დასასრულებლად",
     "Open user settings": "მომხმარებლების პარამეტრების გახსნა",
     "Open": "გახსნა",
-    "Download Completed": "გადმოწერა დასრულებულია"
+    "Download Completed": "გადმოწერა დასრულებულია",
+    "Welcome to MyBusiness": "კეთილი იყოს თქვენი მობრძანება MyBusiness-ზე",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "თქვენი MyBusiness-ის კონფიგურაცია შეიცავს მიუღებელ JSON-ს. გთხოვთ გადაჭრათ პრობლემა და დაარაფრეშოთ გვერდი.",
+    "Your MyBusiness is misconfigured": "შენი MyBusiness-ი არასწორადაა კონფიგურირებული"
 }

@@ -33,5 +33,8 @@
     "%(brand)s Desktop (%(platformName)s)": "%(brand)s שולחן עבודה %(platformName)s",
     "The message from the parser is: %(message)s": "ההודעה מהמנתח היא: %(message)s",
     "Missing indexeddb worker script!": "סקריפט indexeddb worker חסר!",
-    "Switch to space by number": "עבור אל 'Space' על פי מספרו"
+    "Switch to space by number": "עבור אל 'Space' על פי מספרו",
+    "Welcome to MyBusiness": "ברוכים הבאים ל MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "האלמנט מכיל הגדרת JSON שגויה, אנא תקנו את הבעיה ואתחלו את הדף.",
+    "Your MyBusiness is misconfigured": "האלמנט מוגדר באופן שגוי"
 }

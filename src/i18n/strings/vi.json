@@ -33,5 +33,8 @@
     "%(appName)s (%(browserName)s, %(osName)s)": "%(appName)s (%(browserName)s, %(osName)s)",
     "Missing indexeddb worker script!": "Thiếu tệp lệnh làm việc của indexeddb!",
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Thiết lập Element của bạn chứa JSON không hợp lệ. Vui lòng sửa vấn đề và tải lại trang.",
-    "Your Element is misconfigured": "Element của bạn bị thiết lập sai"
+    "Your Element is misconfigured": "Element của bạn bị thiết lập sai",
+    "Welcome to MyBusiness": "Chào mừng tới MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Thiết lập MyBusiness của bạn chứa JSON không hợp lệ. Vui lòng sửa vấn đề và tải lại trang.",
+    "Your MyBusiness is misconfigured": "MyBusiness của bạn bị thiết lập sai"
 }

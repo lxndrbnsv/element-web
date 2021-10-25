@@ -34,5 +34,8 @@
     "%(brand)s Desktop (%(platformName)s)": "%(brand)s pro desktopový počítač (%(platformName)s)",
     "Missing indexeddb worker script!": "Nenačetl se skript spravující indexdb!",
     "Use %(brand)s on mobile": "Používání %(brand)s v mobilních zařízeních",
-    "Switch to space by number": "Přepnout na prostor podle čísla"
+    "Switch to space by number": "Přepnout na prostor podle čísla",
+    "Welcome to MyBusiness": "Vítá vás MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Vaše konfigurace MyBusinessu obsahuje nesprávná data JSON. Vyřešte prosím problém a načtěte znovu stránku.",
+    "Your MyBusiness is misconfigured": "Váš MyBusiness je nesprávně nastaven"
 }

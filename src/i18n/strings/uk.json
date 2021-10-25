@@ -34,5 +34,8 @@
     "Your browser can't run %(brand)s": "Ваш переглядач неспроможний запустити %(brand)s",
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s використовує передові властивості, які ваш браузер не підтримує.",
     "Use %(brand)s on mobile": "Користуйтеся %(brand)s на мобільному",
-    "Switch to space by number": "Перейдіть до простору за номером"
+    "Switch to space by number": "Перейдіть до простору за номером",
+    "Welcome to MyBusiness": "Ласкаво просимо до MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Ваша конфігурація MyBusiness містить хибний JSON. Виправте проблему та оновіть сторінку.",
+    "Your MyBusiness is misconfigured": "Ваш MyBusiness налаштовано неправильно"
 }

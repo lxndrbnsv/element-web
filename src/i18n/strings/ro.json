@@ -34,5 +34,8 @@
     "The message from the parser is: %(message)s": "Mesajul de la parser este: %(message)s",
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Configurația ta Element conține JSON invalid. Vă rugăm sa corectați problema și să reîncărcați pagina.",
     "Invalid configuration: no default server specified.": "Configurație invalidă: niciun server implicit specificat.",
-    "Switch to space by number": "Comută spațiul folosind un număr"
+    "Switch to space by number": "Comută spațiul folosind un număr",
+    "Welcome to MyBusiness": "Bun venit pe MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Configurația ta MyBusiness conține JSON invalid. Vă rugăm sa corectați problema și să reîncărcați pagina.",
+    "Your MyBusiness is misconfigured": "MyBusiness-ul tău este configurat necorespunzător"
 }

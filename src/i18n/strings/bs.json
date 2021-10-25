@@ -31,5 +31,8 @@
     "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Decentralizirani, šifrirani razgovor &amp; suradnja pokrenuta [matrix]",
     "Sign In": "Prijavite se",
     "Create Account": "Otvori račun",
-    "Explore rooms": "Istražite sobe"
+    "Explore rooms": "Istražite sobe",
+    "Welcome to MyBusiness": "Dobrodošli u MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Konfiguracija vašeg elementa sadrži nevažeći JSON. Ispravite problem i ponovo učitajte stranicu.",
+    "Your MyBusiness is misconfigured": "Vaš element je pogrešno konfiguriran"
 }

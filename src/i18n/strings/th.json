@@ -26,5 +26,8 @@
     "Your browser can't run %(brand)s": "เบราว์เซอร์ของคุณไม่สามารถใช้งาน %(brand)s ได้",
     "Unsupported browser": "เบราว์เซอร์ไม่รองรับ",
     "%(appName)s (%(browserName)s, %(osName)s)": "%(appName)s (%(browserName)s, %(osName)s)",
-    "Previous/next recently visited room or community": "ห้อง/ชุมชน ที่เคยเยี่ยมชมไปก่อนหน้า"
+    "Previous/next recently visited room or community": "ห้อง/ชุมชน ที่เคยเยี่ยมชมไปก่อนหน้า",
+    "Welcome to MyBusiness": "ยินดีต้อนรับสู่ MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "การตั้งค่าของ MyBusiness จะต้องอยู่ในรูปแบบ JSON. โปรดแก้ไขการตั้งค่าและโหลดหน้านี้ใหม่อีกครั้ง.",
+    "Your MyBusiness is misconfigured": "การตั้งค่าของคุณไม่ถูกต้อง"
 }

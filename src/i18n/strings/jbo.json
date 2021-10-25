@@ -32,5 +32,8 @@
     "Unexpected error preparing the app. See console for details.": ".i da nabmi fi lo nu co'a ka'e pilno le samtci .i ko tcidu le notci be fi le samymi'etci",
     "Open user settings": "nu viska le pilno tcimi'e tutci",
     "Previous/next recently visited room or community": "ve zilbe'i vau ja girzu vau je bo lamli'e vau ja se lamli'e",
-    "Powered by Matrix": ".i la .meitriks. cu jicmu"
+    "Powered by Matrix": ".i la .meitriks. cu jicmu",
+    "Welcome to MyBusiness": ".i fi'i zo'e do pilno la .elyment.",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": ".i le tcimi'e be la .elyment. be'o vreji na drani le ka veirdjeisano .i gau ko drani je ba kibycpa le kibypapri",
+    "Your MyBusiness is misconfigured": ".i le tcimi'e be la .elyment. be'o vreji na drani"
 }

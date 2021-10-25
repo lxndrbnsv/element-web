@@ -34,5 +34,8 @@
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s 使用了您目前的瀏覽器不支援的進階瀏覽器功能。",
     "Powered by Matrix": "由 Matrix 提供",
     "Use %(brand)s on mobile": "在行動裝置上使用 %(brand)s",
-    "Switch to space by number": "依數字切換至空間"
+    "Switch to space by number": "依數字切換至空間",
+    "Welcome to MyBusiness": "歡迎來到 MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "MyBusiness 的配置中包含無效JSON，請更正錯誤並重新加載網頁。",
+    "Your MyBusiness is misconfigured": "MyBusiness 配置錯誤"
 }

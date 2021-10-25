@@ -33,5 +33,8 @@
     "Your browser can't run %(brand)s": "Браузърът ви не може да изпълни %(brand)s",
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s използва модерни функции на браузъра, които не се поддържат от Вашия.",
     "Powered by Matrix": "Базирано на Matrix",
-    "Use %(brand)s on mobile": "Използвайте %(brand)s на мобилен телефон"
+    "Use %(brand)s on mobile": "Използвайте %(brand)s на мобилен телефон",
+    "Welcome to MyBusiness": "Добре дошли в MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Вашата MyBusiness конфигурация съдържа невалиден JSON. Коригирайте проблема и презаредете страницата.",
+    "Your MyBusiness is misconfigured": "Вашият MyBusiness не е конфигуриран правилно"
 }

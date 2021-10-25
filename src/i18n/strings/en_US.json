@@ -33,5 +33,8 @@
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.",
     "Your Element is misconfigured": "Your Element is misconfigured",
     "Missing indexeddb worker script!": "Missing indexeddb worker script!",
-    "Switch to space by number": "Switch to space by number"
+    "Switch to space by number": "Switch to space by number",
+    "Welcome to MyBusiness": "Welcome to MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.",
+    "Your MyBusiness is misconfigured": "Your MyBusiness is misconfigured"
 }

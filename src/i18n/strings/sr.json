@@ -32,5 +32,8 @@
     "I understand the risks and wish to continue": "Разумем ризике и желим да наставим",
     "Go to element.io": "Иди на element.io",
     "Failed to start": "Неуспех при покретању",
-    "Powered by Matrix": "Оснажен од стране Матрикса"
+    "Powered by Matrix": "Оснажен од стране Матрикса",
+    "Welcome to MyBusiness": "Добродошли у Елемент",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Подешавање ваше Елемент апликације садржи неисправни „JSON“. Поправите проблем па поново учитајте ову страницу.",
+    "Your MyBusiness is misconfigured": "Ваша Елемент апликација је лоше подешена"
 }

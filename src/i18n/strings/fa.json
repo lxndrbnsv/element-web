@@ -34,5 +34,8 @@
     "Failed to start": "مشکل در آغاز",
     "Powered by Matrix": "قدرت‌گرفته از ماتریکس",
     "Use %(brand)s on mobile": "استفاده از %(brand)s روی گوشی",
-    "Switch to space by number": "تغییر به فضا با شماره"
+    "Switch to space by number": "تغییر به فضا با شماره",
+    "Welcome to MyBusiness": "به MyBusiness خوش‌آمدید",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "پیکربندی المنت شما شامل JSON نا معتبر است. لطفا مشکل را اصلاح کنید و صفحه را بارگذاری مجدد کنید.",
+    "Your MyBusiness is misconfigured": "MyBusiness شما پیکربندی نشده است"
 }

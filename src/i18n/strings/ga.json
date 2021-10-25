@@ -34,5 +34,8 @@
     "Open user settings": "Oscail socruithe úsáideora",
     "Open": "Oscail",
     "Use %(brand)s on mobile": "Úsáid %(brand)s ar guthán póca",
-    "Switch to space by number": "Athraigh go spás de réir uimhreach"
+    "Switch to space by number": "Athraigh go spás de réir uimhreach",
+    "Welcome to MyBusiness": "Fáilte romhat chuig MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Coinníonn do chumraíocht JSON neamhbhailí. Ceartaigh an fadhb agus athlódáil an leathanach le do thoil.",
+    "Your MyBusiness is misconfigured": "Níl do fheidhmchlár MyBusiness cumraithe i gceart"
 }

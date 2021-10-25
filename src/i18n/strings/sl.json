@@ -32,5 +32,8 @@
     "You can continue using your current browser, but some or all features may not work and the look and feel of the application may be incorrect.": "Lahko nadaljujete z uporabo vašega trenutnega brskalnika, vendar lahko to privede do manjkajočih funkcionalnosti ali napačnega izgleda aplikacije.",
     "I understand the risks and wish to continue": "Razumem riziko in želim vseeno nadaljevati",
     "Go to element.io": "Pojdi na element.io",
-    "Failed to start": "Neuspel zagon"
+    "Failed to start": "Neuspel zagon",
+    "Welcome to MyBusiness": "Dobrodošli v MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Konfiguracije vašega MyBusinessa vsebujejo neveljaven JSON. Prosim, popravite napako in znova naložite stran.",
+    "Your MyBusiness is misconfigured": "Vaš MyBusiness je napačno nastavljen"
 }

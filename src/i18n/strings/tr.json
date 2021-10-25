@@ -34,5 +34,8 @@
     "Open": "Aç",
     "Missing indexeddb worker script!": "Indexeddb worker kodu eksik!",
     "Use %(brand)s on mobile": "Mobilde %(brand)s kullan",
-    "Switch to space by number": "Sayı ile belirtilen alana geç"
+    "Switch to space by number": "Sayı ile belirtilen alana geç",
+    "Welcome to MyBusiness": "MyBusiness'e hoş geldiniz",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "MyBusiness uygulamasının ayarları hatalı JSON içeriyor. Lütfen hatayı düzeltip sayfayı yenileyin.",
+    "Your MyBusiness is misconfigured": "MyBusiness uygulaması hatalı ayarlanmış"
 }

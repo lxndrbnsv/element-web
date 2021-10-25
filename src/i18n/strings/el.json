@@ -32,5 +32,8 @@
     "Failed to start": "Αποτυχία έναρξης",
     "%(appName)s (%(browserName)s, %(osName)s)": "%(appName)s (%(browserName)s, %(osName)s)",
     "%(brand)s Desktop (%(platformName)s)": "%(brand)s Desktop (%(platformName)s)",
-    "Missing indexeddb worker script!": "Απουσία indexeddb worker script!"
+    "Missing indexeddb worker script!": "Απουσία indexeddb worker script!",
+    "Welcome to MyBusiness": "Καλώς ήλθατε στο MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Η ρύθμιση του MyBusiness περιέχει μη έγκυρο JSON. Διορθώστε το πρόβλημα και φορτώστε ξανά τη σελίδα.",
+    "Your MyBusiness is misconfigured": "Το MyBusiness σας δεν εχει ρυθμιστεί σωστά"
 }

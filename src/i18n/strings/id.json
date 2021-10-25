@@ -34,5 +34,8 @@
     "Invalid JSON": "JSON tidak valid",
     "The message from the parser is: %(message)s": "Pesan dari pengurai adalah: %(message)s",
     "Your Element is misconfigured": "Element Anda salah dikonfigurasi",
-    "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Konfigurasi tidak valid: hanya bisa menentukan satu dari default_server_config, default_server_name, atau default_hs_url."
+    "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Konfigurasi tidak valid: hanya bisa menentukan satu dari default_server_config, default_server_name, atau default_hs_url.",
+    "Welcome to MyBusiness": "Selamat datang di MyBusiness",
+    "Your MyBusiness configuration contains invalid JSON. Please correct the problem and reload the page.": "Konfigurasi MyBusiness Anda mengandung JSON yang tidak valid. Mohon perbaiki masalahnya dan muat ulang halaman nya.",
+    "Your MyBusiness is misconfigured": "MyBusiness Anda salah dikonfigurasi"
 }
