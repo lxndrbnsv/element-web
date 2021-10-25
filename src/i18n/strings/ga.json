@@ -34,5 +34,8 @@
     "Open user settings": "Oscail socruithe úsáideora",
     "Open": "Oscail",
     "Use %(brand)s on mobile": "Úsáid %(brand)s ar guthán póca",
-    "Switch to space by number": "Athraigh go spás de réir uimhreach"
+    "Switch to space by number": "Athraigh go spás de réir uimhreach",
+    "Welcome to QAIM": "Fáilte romhat chuig QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Coinníonn do chumraíocht JSON neamhbhailí. Ceartaigh an fadhb agus athlódáil an leathanach le do thoil.",
+    "Your QAIM is misconfigured": "Níl do fheidhmchlár QAIM cumraithe i gceart"
 }

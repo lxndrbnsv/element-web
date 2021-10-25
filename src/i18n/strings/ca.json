@@ -34,5 +34,8 @@
     "Failed to start": "Ha fallat l'inici",
     "Missing indexeddb worker script!": "Falta l'script del treballador indexeddb!",
     "Use %(brand)s on mobile": "Utilitza %(brand)s al mòbil",
-    "Switch to space by number": "Canvia d'espai per número"
+    "Switch to space by number": "Canvia d'espai per número",
+    "Welcome to QAIM": "Benvingut/da a QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "La configuració d'QAIM conté un JSON invàlid. Soluciona el problema i actualitza la pàgina.",
+    "Your QAIM is misconfigured": "QAIM està mal configurat"
 }

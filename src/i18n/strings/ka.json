@@ -27,5 +27,8 @@
     "Go to your browser to complete Sign In": "გახსენი ბრაუზერი Sign In-ის დასასრულებლად",
     "Open user settings": "მომხმარებლების პარამეტრების გახსნა",
     "Open": "გახსნა",
-    "Download Completed": "გადმოწერა დასრულებულია"
+    "Download Completed": "გადმოწერა დასრულებულია",
+    "Welcome to QAIM": "კეთილი იყოს თქვენი მობრძანება QAIM-ზე",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "თქვენი QAIM-ის კონფიგურაცია შეიცავს მიუღებელ JSON-ს. გთხოვთ გადაჭრათ პრობლემა და დაარაფრეშოთ გვერდი.",
+    "Your QAIM is misconfigured": "შენი QAIM-ი არასწორადაა კონფიგურირებული"
 }

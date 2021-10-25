@@ -18,5 +18,7 @@
     "Go to your browser to complete Sign In": "Opna nettlesaren din for å fullføra innlogginga",
     "Unsupported browser": "Nettlesaren er ikkje støtta",
     "Your browser can't run %(brand)s": "Din nettlesar kan ikkje køyra %(brand)s",
-    "Go to element.io": "Gå til element.io"
+    "Go to element.io": "Gå til element.io",
+    "Welcome to QAIM": "Velkomen til QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Oppsettet for din QAIM inneheld ugyldig JSON. Sjekk konfigurasjonsfila, deretter last om sida."
 }

@@ -34,5 +34,8 @@
     "Invalid JSON": "JSON tidak valid",
     "The message from the parser is: %(message)s": "Pesan dari pengurai adalah: %(message)s",
     "Your Element is misconfigured": "Element Anda salah dikonfigurasi",
-    "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Konfigurasi tidak valid: hanya bisa menentukan satu dari default_server_config, default_server_name, atau default_hs_url."
+    "Invalid configuration: can only specify one of default_server_config, default_server_name, or default_hs_url.": "Konfigurasi tidak valid: hanya bisa menentukan satu dari default_server_config, default_server_name, atau default_hs_url.",
+    "Welcome to QAIM": "Selamat datang di QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Konfigurasi QAIM Anda mengandung JSON yang tidak valid. Mohon perbaiki masalahnya dan muat ulang halaman nya.",
+    "Your QAIM is misconfigured": "QAIM Anda salah dikonfigurasi"
 }

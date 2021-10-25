@@ -34,5 +34,8 @@
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s isseqdac timahilin n yiminig leqqayen ur yessefrak ara yiminig-ik·im amiran.",
     "Powered by Matrix": "Iteddu s lmendad n Matrix",
     "Use %(brand)s on mobile": "Seqdec %(brand)s deg tiliɣri",
-    "Switch to space by number": "Ddu ɣer space s uṭṭun"
+    "Switch to space by number": "Ddu ɣer space s uṭṭun",
+    "Welcome to QAIM": "Ansuf ɣer QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Deg twila n uferdis-inek·inem yella JSON d arameɣtu. Ttxil-k·m seɣti ugur syen ales asali n usebter.",
+    "Your QAIM is misconfigured": "Aferdis-inek·inem ur yettuswel ara akken iwata"
 }

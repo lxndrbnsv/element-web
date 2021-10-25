@@ -34,5 +34,8 @@
     "Open": "Aç",
     "Missing indexeddb worker script!": "Indexeddb worker kodu eksik!",
     "Use %(brand)s on mobile": "Mobilde %(brand)s kullan",
-    "Switch to space by number": "Sayı ile belirtilen alana geç"
+    "Switch to space by number": "Sayı ile belirtilen alana geç",
+    "Welcome to QAIM": "QAIM'e hoş geldiniz",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "QAIM uygulamasının ayarları hatalı JSON içeriyor. Lütfen hatayı düzeltip sayfayı yenileyin.",
+    "Your QAIM is misconfigured": "QAIM uygulaması hatalı ayarlanmış"
 }

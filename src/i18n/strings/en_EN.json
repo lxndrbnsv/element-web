@@ -32,5 +32,8 @@
     "Decentralised, encrypted chat &amp; collaboration powered by [matrix]": "Decentralised, encrypted chat &amp; collaboration powered by [matrix]",
     "Sign In": "Sign In",
     "Create Account": "Create Account",
-    "Explore rooms": "Explore rooms"
+    "Explore rooms": "Explore rooms",
+    "Welcome to QAIM": "Welcome to QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.",
+    "Your QAIM is misconfigured": "Your QAIM is misconfigured"
 }

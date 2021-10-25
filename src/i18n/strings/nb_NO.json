@@ -34,5 +34,8 @@
     "%(brand)s Desktop (%(platformName)s)": "%(brand)s Skrivebord (%(platformName)s)",
     "Open": "Åpne",
     "Use %(brand)s on mobile": "Bruk %(brand)s på mobil",
-    "Switch to space by number": "Bytt til plass etter nummer"
+    "Switch to space by number": "Bytt til plass etter nummer",
+    "Welcome to QAIM": "Velkommen til QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Ditt QAIM konfigurasjonen inneholder ugyldig JSON. Løs problemet og last siden på nytt.",
+    "Your QAIM is misconfigured": "Ditt QAIM er feilkonfigurert"
 }

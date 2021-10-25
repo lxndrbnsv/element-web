@@ -33,5 +33,8 @@
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.",
     "Your Element is misconfigured": "Your Element is misconfigured",
     "Missing indexeddb worker script!": "Missing indexeddb worker script!",
-    "Switch to space by number": "Switch to space by number"
+    "Switch to space by number": "Switch to space by number",
+    "Welcome to QAIM": "Welcome to QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.",
+    "Your QAIM is misconfigured": "Your QAIM is misconfigured"
 }

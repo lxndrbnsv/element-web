@@ -33,5 +33,8 @@
     "Your browser can't run %(brand)s": "Браузърът ви не може да изпълни %(brand)s",
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s използва модерни функции на браузъра, които не се поддържат от Вашия.",
     "Powered by Matrix": "Базирано на Matrix",
-    "Use %(brand)s on mobile": "Използвайте %(brand)s на мобилен телефон"
+    "Use %(brand)s on mobile": "Използвайте %(brand)s на мобилен телефон",
+    "Welcome to QAIM": "Добре дошли в QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Вашата QAIM конфигурация съдържа невалиден JSON. Коригирайте проблема и презаредете страницата.",
+    "Your QAIM is misconfigured": "Вашият QAIM не е конфигуриран правилно"
 }

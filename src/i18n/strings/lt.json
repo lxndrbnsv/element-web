@@ -33,5 +33,8 @@
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s naudoja išplėstines naršyklės funkcijas, kurių jūsų dabartinė naršyklė nepalaiko.",
     "Please install <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, or <safariLink>Safari</safariLink> for the best experience.": "Geriausiam veikimui suinstaliuokite <chromeLink>Chrome</chromeLink>, <firefoxLink>Firefox</firefoxLink>, arba <safariLink>Safari</safariLink>.",
     "Powered by Matrix": "Veikia su Matrix",
-    "Use %(brand)s on mobile": "Naudoti %(brand)s mobiliajame telefone"
+    "Use %(brand)s on mobile": "Naudoti %(brand)s mobiliajame telefone",
+    "Welcome to QAIM": "Sveiki atvykę į QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Jūsų QAIM konfigūracijoje yra klaidingas JSON. Ištaisykite problemą ir iš naujo įkelkite puslapį.",
+    "Your QAIM is misconfigured": "Jūsų QAIM yra neteisingai sukonfigūruotas"
 }

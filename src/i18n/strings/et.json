@@ -34,5 +34,8 @@
     "%(brand)s uses advanced browser features which aren't supported by your current browser.": "%(brand)s kasutab mitmeid uusi brauseri-põhiseid tehnoloogiaid, mis ei ole veel sinu veebibrauseris toetatud.",
     "Powered by Matrix": "Põhineb Matrix'il",
     "Use %(brand)s on mobile": "Kasuta rakendust %(brand)s nutiseadmes",
-    "Switch to space by number": "Vaata kogukonnakeskust tema numbri alusel"
+    "Switch to space by number": "Vaata kogukonnakeskust tema numbri alusel",
+    "Welcome to QAIM": "Tere tulemast kasutama suhtlusrakendust QAIM",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "Sinu QAIM'i seadistustes on vigased JSON-vormingus andmed. Palun paranda see viga ja laadi leht uuesti.",
+    "Your QAIM is misconfigured": "Sinu QAIM on valesti seadistatud"
 }

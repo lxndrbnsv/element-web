@@ -33,5 +33,8 @@
     "Download Completed": "பதிவிறக்கம் முடிவடைந்தது",
     "Unable to load config file: please refresh the page to try again.": "கட்டமைப்பு கோப்பை ஏற்ற முடியவில்லை: மீண்டும் முயற்சிக்க பக்கத்தைப் புதுப்பிக்கவும்.",
     "Your Element configuration contains invalid JSON. Please correct the problem and reload the page.": "உங்கள் எலிமெண்ட் உள்ளமைவில் தவறான JSON உள்ளது. தயவுசெய்து இதை சரிசெய்து பக்கத்தை மீண்டும் ஏற்றவும்.",
-    "Your Element is misconfigured": "உங்கள் எலிமெண்ட் தவறாக உள்ளமைக்கப்பட்டுள்ளது"
+    "Your Element is misconfigured": "உங்கள் எலிமெண்ட் தவறாக உள்ளமைக்கப்பட்டுள்ளது",
+    "Welcome to QAIM": "எலிமெண்டிற்க்கு வரவேற்க்கிறோம்",
+    "Your QAIM configuration contains invalid JSON. Please correct the problem and reload the page.": "உங்கள் எலிமெண்ட் உள்ளமைவில் தவறான JSON உள்ளது. தயவுசெய்து இதை சரிசெய்து பக்கத்தை மீண்டும் ஏற்றவும்.",
+    "Your QAIM is misconfigured": "உங்கள் எலிமெண்ட் தவறாக உள்ளமைக்கப்பட்டுள்ளது"
 }
